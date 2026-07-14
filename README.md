@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and game development
 - 🌱 I’m currently learning computer science in university
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 📫 How to reach me --> email: dusanj003@gmail.com
 
 <!---
 DusanJ03/DusanJ03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
