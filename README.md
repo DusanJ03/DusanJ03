@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DusanJ03
 - 👀 I’m interested in coding and game development
 - 🌱 I’m currently learning computer science in university
-- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me --> email: dusanj003@gmail.com
 
 <!---
