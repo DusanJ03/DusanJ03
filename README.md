@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DusanJ03
-- 👀 I’m interested in coding and game development
+- 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning computer science in university
 - 📫 How to reach me --> email: dusanj003@gmail.com
 
